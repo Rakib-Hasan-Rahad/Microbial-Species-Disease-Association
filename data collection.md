@@ -1,12 +1,4 @@
-﻿I can’t directly generate and attach a PDF file from here, but I can give you a **PDF-ready document** in one of these forms so you can export it to PDF in 1 minute:
 
-1) **LaTeX source** (best for a clean PDF)  
-2) **Markdown** (export to PDF via VS Code / Typora / Pandoc / Obsidian)  
-3) **Google Docs / Word-ready text** (paste and “Save as PDF”)
-
-Tell me which format you want. Meanwhile, here is a **Markdown version** you can paste into any Markdown editor and export to PDF.
-
----
 
 # Data Collection Report  
 ## Microbial Species–Disease Association Text-Mining Project
@@ -287,19 +279,3 @@ project/
 ```
 
 ---
-
-# How to convert to PDF quickly
-### Option 1: VS Code
-- Install Markdown PDF extension → Export to PDF
-
-### Option 2: Pandoc
-```bash
-pandoc report.md -o data_collection_report.pdf
-```
-
-### Option 3: Google Docs
-- Paste content → File → Download → PDF
-
----
-
-If you tell me which export method you’ll use (Word/Google Docs, LaTeX, or Markdown/Pandoc), I can format it exactly for that tool (proper title page, table of contents, headings, and page breaks).
